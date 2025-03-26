@@ -5,3 +5,6 @@ Microbit Gaussian LED bounce
 
 
  Moves a Gaussian ball in a 50x50 grid within the 5x5 pixel array.
+ 
+compile using:
+https://python.microbit.org/v/3/
