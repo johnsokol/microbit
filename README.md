@@ -5,6 +5,10 @@ Microbit Gaussian LED bounce
 
 
  Moves a Gaussian ball in a 50x50 grid within the 5x5 pixel array.
+ 
+![Microbit](microbit-bounce.png "Mirobit")
+
+
 
 https://www.youtube.com/watch?v=-XzCZoGQwn4
  
